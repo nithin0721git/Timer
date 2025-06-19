@@ -3,7 +3,7 @@ import datetime
 import time
 
 def countdown_timer():
-    target_date = datetime.datetime(2024, 9, 18, 0, 0)  # Set the target date and time
+    target_date = datetime.datetime(2026, 2, 1, 0, 0)  # Set the target date and time
     current_date = datetime.datetime.now()
     time_difference = target_date - current_date
 
